@@ -1,0 +1,17 @@
+.btn-primary{
+    background-color: #4BD7DA!important;
+    border-color: #4BD7DA;
+}
+.btn-warning{
+    background-color: white;
+    border-color: #4BD7DA;
+    color: #4BD7DA;
+}
+.btn-warning:hover{
+    background-color: white;
+    border-color: #4BD7DA;
+    color: #4BD7DA;
+}
+.text-info{
+    color: #4BD7DA!important;
+}
